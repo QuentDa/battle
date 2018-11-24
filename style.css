@@ -1,0 +1,21 @@
+#choosePlayer{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#battleground{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 300px;
+}
+
+#chooseCardPlayer1,#chooseCardPlayer2{
+    display: block;
+    margin-top: 20px;
+}
+
+
