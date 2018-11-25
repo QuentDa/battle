@@ -27,6 +27,13 @@ Etape 6 : Il y a 5 cartes par manches, a la fin des 5 cartes, additionner toutes
         <h4>PLAYER 1</h4>
         <img src="img/hidden.png" alt="">
         <button id="chooseCardPlayer1" class="btn btn-primary">Choisir sa carte</button>
+    </div>
+
+    <div class="j1card">
+
+    </div>
+
+    <div class="j2card">
 
     </div>
 
